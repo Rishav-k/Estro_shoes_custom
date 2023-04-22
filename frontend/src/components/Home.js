@@ -39,7 +39,7 @@ function pad2(number) {
 }
 export default function Home() {
 const [element , setElement] = useState("Vamp");
-const [img ,setImg] = useState('vak');
+const [img ,setImg] = useState('LOP-01-1');
 function decode(){
 let str ="";
     for(var j = 0; j < 3 ;j++){
@@ -58,7 +58,7 @@ console.log(str);
   return (
     <div>
       <div className="home-top">    
-      <h2><center>{imgCode}</center></h2>
+      <h2><center>{img}</center></h2>
       </div>
       <div><center>
         <div>
