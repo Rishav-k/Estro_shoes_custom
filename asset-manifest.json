@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Estro_shoes_custom/static/css/main.45d09825.css",
+    "main.js": "/Estro_shoes_custom/static/js/main.e4e01fb5.js",
+    "static/js/787.cda612ba.chunk.js": "/Estro_shoes_custom/static/js/787.cda612ba.chunk.js",
+    "index.html": "/Estro_shoes_custom/index.html",
+    "main.45d09825.css.map": "/Estro_shoes_custom/static/css/main.45d09825.css.map",
+    "main.e4e01fb5.js.map": "/Estro_shoes_custom/static/js/main.e4e01fb5.js.map",
+    "787.cda612ba.chunk.js.map": "/Estro_shoes_custom/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45d09825.css",
+    "static/js/main.e4e01fb5.js"
+  ]
+}
