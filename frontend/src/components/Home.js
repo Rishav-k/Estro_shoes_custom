@@ -5,13 +5,13 @@ import {AiOutlineArrowRight }from  "react-icons/ai"
 import "../css/home.css"
 
 const elements = ["Vamp" , "Apron" , "Saddle"];
-const code = ["V" , "A" , "S"];
+//const code = ["V" , "A" , "S"];
 var i = 0;
 let data = [
     [1, 1, 1 ],
     [1, 1, 1 ],
 ];
-var x = 1;
+//var x = 1;
 function binaryToDecimal(n)
 {
     let num = n;
@@ -32,7 +32,7 @@ function binaryToDecimal(n)
  
     return dec_value;
 }
-function update(){};
+//function update(){};
 var imgCode = 0;
 function pad2(number) {
    return (number < 10 ? '0' : '') + number
